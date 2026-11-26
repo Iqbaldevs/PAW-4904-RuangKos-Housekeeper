@@ -1,16 +1,8 @@
 # RuangKos — Modul Housekeeper
 
-Aplikasi web manajemen properti kos (**RuangKos**) berbasis Laravel 12. Repositori ini memuat kontribusi pengerjaan **Modul C: Manajemen Housekeeper (Katalog Petugas Kebersihan)**.
-
 - **Nama:** Muhammad Iqbal Mahyuddin
 - **Kelas:** SI-49-04
 - **Modul:** Modul C — Housekeeper
-
----
-
-## Ringkasan Fitur & Hak Akses
-- **Admin (`role: admin`):** Dapat melihat daftar staf, melihat detail penugasan, menambahkan staf baru, mengubah data, serta menghapus data staf kebersihan (CRUD penuh).
-- **Penghuni (`role: penghuni`):** Dapat melihat daftar petugas kebersihan, tugas, dan area kerja serta menggunakan fitur pencarian dan filter area (*read-only*).
 
 ---
 
