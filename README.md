@@ -38,10 +38,3 @@ RuangKos-Housekeeper/
 └── routes/
     └── web.php                                              # [Diperbarui] Konfigurasi rute & middleware peran Modul C
 ```
-
----
-
-## Cara Menjalankan di Lokal
-1. Jalankan `composer install` dan salin `.env.example` menjadi `.env`.
-2. Jalankan `php artisan key:generate` dan `php artisan migrate`.
-3. Jalankan server lokal dengan `php artisan serve`, lalu akses melalui `http://localhost:8000`.
