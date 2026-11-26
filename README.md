@@ -1,7 +1,5 @@
 # RuangKos — Modul Housekeeper
 
-- **Nama:** Muhammad Iqbal Mahyuddin
-- **Kelas:** SI-49-04
 - **Modul:** Modul C — Housekeeper
 
 ---
